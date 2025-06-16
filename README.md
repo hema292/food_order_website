@@ -1,1 +1,3 @@
-# food_order_website
+“In this project, I developed a dynamic food ordering website using HTML, CSS, and JavaScript. The application allows users to browse a list of food items, each displayed with comprehensive details such as name, price, and rating. To enhance the user experience, I implemented an interactive toggle heart-shaped button for adding items to the cart, providing immediate visual feedback.
+
+The cart functionality is fully dynamic—users can add or remove items on the fly, and the total price updates automatically to reflect these changes. Additionally, I included a feature for users to input their delivery address, ensuring a complete ordering flow. Overall, the project showcases my ability to build interactive, user-friendly e-commerce interfaces with dynamic cart management.”
